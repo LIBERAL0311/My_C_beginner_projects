@@ -1,2 +1,2 @@
-# My_C_C-_beginner_projects
+# My_C_beginner_projects
 my beginner projects
